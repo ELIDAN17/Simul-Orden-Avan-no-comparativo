@@ -50,7 +50,7 @@ else:
         "Quick Sort": quick_sort,
         "Merge Sort": merge_sort,
         "Shell Sort": shell_sort,
-        "Timsort (Manual)": timsort_manual
+        "Timsort": timsort_manual
     }
 
     col_visual, col_stats = st.columns([1.5, 1])
